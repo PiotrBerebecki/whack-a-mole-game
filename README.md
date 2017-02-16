@@ -1,4 +1,4 @@
-# Vanilla JavaScript App Boilerplate
+# Whack-a-mole Game
 
 A 10-second-long game where the user tries to catch the mole.
 
