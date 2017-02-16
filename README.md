@@ -1,8 +1,8 @@
 # Vanilla JavaScript App Boilerplate
 
-App demonstrating ...
+A 10-second-long game where the user tries to catch the mole.
 
-Live version: https://REPO.herokuapp.com
+Live version: https://whack-a-mole-game-js.herokuapp.com
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
 
@@ -10,6 +10,7 @@ Live version: https://REPO.herokuapp.com
 * Node
 * Express
 * Heroku
+* Browsersync
 * Vanilla JavaScript
 * ES6
 * Flexbox
@@ -17,8 +18,8 @@ Live version: https://REPO.herokuapp.com
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/whack-a-mole-game.git
+cd whack-a-mole-game
 npm install
 
 #1. Start the development server with Browsersync reloading
