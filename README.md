@@ -4,7 +4,7 @@ A 10-second-long game where the user tries to catch the mole.
 
 Live version: https://whack-a-mole-game-js.herokuapp.com
 
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
+<img src="./src/graphics/screencast.gif" width="400px" height="auto">
 
 ## Tech stack
 * Node
